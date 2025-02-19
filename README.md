@@ -1,5 +1,10 @@
 ﻿# CyndaBot :shipit:
 
+## Installation Instructions
+
+To add the bot to your discord server click [here](https://discord.com/oauth2/authorize?client_id=1221156822787031101&permissions=397284736000&scope=bot)
+
+
 ## Description
 
 Discord bot that detects wallet addresses from messages and fetches their information using the **Blaze API**.
@@ -10,10 +15,6 @@ The bot looks for addresses in the replies to a message it is tagged in. It then
 
 - Fazl Omar
 - Uday Joshi
-
-## Installation Instructions
-
-To add the bot to your discord server click [here](https://discord.com/oauth2/authorize?client_id=1221156822787031101&permissions=397284736000&scope=bot)
 
 ## User Instructions
 
